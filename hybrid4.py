@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 import plotly.graph_objects as go
-!pip install plotly
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
